@@ -2,7 +2,7 @@
 
 ## Requirements
 - Unreal Engine 5.0 or later
-- https://www.fab.com/listings/4c33791a-74f8-487e-9fcd-1a49593187f4
+- WebSocket with Blueprint Plugin: https://www.fab.com/listings/4c33791a-74f8-487e-9fcd-1a49593187f4
 
 ## Installation
 1. Clone the repository to your local machine.
