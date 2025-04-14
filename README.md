@@ -19,3 +19,5 @@
 4. Run `npm install` to install the required dependencies (only once).
 4. Run `node client.js` to start the WebSocket client.
 5. You should see the client sending messages to the server and receiving responses.
+
+<img src="./wsClient/test.jpg" alt="Client" width="800"/>
