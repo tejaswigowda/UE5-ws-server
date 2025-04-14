@@ -1,4 +1,4 @@
-# UE5 Web Socket server (blueprint) example
+# UE5 Web Socket server (blueprint only) example
 
 ## Requirements
 - Unreal Engine 5.0 or later.
