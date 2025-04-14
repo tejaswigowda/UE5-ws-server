@@ -1,9 +1,9 @@
 # UE5 Web Socket server (blueprint) example
 
 ## Requirements
-- Unreal Engine 5.0 or later
+- Unreal Engine 5.0 or later.
 - WebSocket with Blueprint Plugin: https://www.fab.com/listings/c52d0c7a-1104-4263-bf71-668a56ebfa43
-- Node.js: https://nodejs.org/en/download/
+- Node.js: https://nodejs.org/en/download/ (for testing the client).
 
 ## Installation
 1. Clone the repository to your local machine.
