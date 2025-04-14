@@ -2,7 +2,8 @@
 
 ## Requirements
 - Unreal Engine 5.0 or later
-- WebSocket with Blueprint Plugin: https://www.fab.com/listings/4c33791a-74f8-487e-9fcd-1a49593187f4
+- WebSocket with Blueprint Plugin: https://www.fab.com/listings/c52d0c7a-1104-4263-bf71-668a56ebfa43
+- Node.js: https://nodejs.org/en/download/
 
 ## Installation
 1. Clone the repository to your local machine.
@@ -14,6 +15,7 @@
 ## Test
 1. Open the `wsServer` project in Unreal Engine 5.
 2. Click the "Play" button to start the WebSocket server.
-3, cd to `wsClient` folder
+3. cd to `wsClient` folder
+4. Run `npm install` to install the required dependencies (only once).
 4. Run `node client.js` to start the WebSocket client.
 5. You should see the client sending messages to the server and receiving responses.
