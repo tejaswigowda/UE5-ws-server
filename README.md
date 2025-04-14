@@ -9,10 +9,10 @@
 1. Clone the repository to your local machine.
 2. Open the `wsServer/wsServer.uproject` file in Unreal Engine 5.
 
-## Blueprint
+## Blueprint Example
 <img src="./wsServer/bp.jpg" alt="Blueprint" width="800"/>
 
-## Test
+## Testing the WebSocket Server
 1. Open the `wsServer` project in Unreal Engine 5.
 2. Click the "Play" button to start the WebSocket server.
 3. cd to `wsClient` folder
